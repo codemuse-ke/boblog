@@ -1,0 +1,22 @@
+.main {
+    border-right: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width:180px;
+
+
+
+    .links {
+        transform: rotate(90deg);
+        display: flex;
+        
+        .link {
+            margin: 0 40px 0 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    
+    }
+}
